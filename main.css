@@ -31,7 +31,16 @@ nav{
 	border: thin solid;
 }
 
+#youtube{
+	align-content: space-between;
+	
+
+}
+
+
+
 #intro{
+	align-content: center;
 	width:350px;
 	background-color: rgba(72,163,62,1.00);
 	height:160px;
