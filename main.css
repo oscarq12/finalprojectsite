@@ -89,10 +89,10 @@ nav{
     font-family: 'Noto Sans JP', sans-serif;
     right: 300px;
     top: 150px;
-    margin-top: -16px;
-    margin-right: 50px;
-    margin-left: center;
-    margin-bottom: center;
+    margin-top: 18px;
+    margin-right: 18px;
+    margin-left: 18px;
+    margin-bottom: 18px;
     text-decoration: none;
 }
 
@@ -251,4 +251,10 @@ footer{
     padding-right: 0px;
     padding-left: 10px;	
 }#testimonial #clienttest {
+}
+
+#youtube{
+	align-content: center;
+	margin-left: 545px;
+	
 }
