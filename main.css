@@ -2,10 +2,11 @@
 /* CSS Document */
 *{
     box-sizing: border-box;
-    top: 0px;
-    text-decoration: none;
+   
 }
-.container {
+#container{
+	width:1020px;
+	margin:0 auto;
 }
 
 body{
@@ -130,7 +131,7 @@ footer{
 
 
 #life{
-			width:320px;
+			width:330px;
 			background-color: rgba(72,163,62,1.00);
 			height:320px;
 			float:left;	
@@ -154,7 +155,7 @@ footer{
 		}
 
 #pose{
-    width: 315px;
+    width: 330px;
     background-color: rgba(72,163,62,1.00);
     height: 320px;
     float: left;
@@ -188,6 +189,13 @@ footer{
 	
 }
 
+#art4{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+
 #contact{
     width: 470px;
     background-color: rgba(72,163,62,1.00);
@@ -203,4 +211,48 @@ footer{
     margin-bottom: center;
     display: table;
     top: 152px;
+}
+
+
+#set1{
+			width:320px;
+			height:300px;
+			float:left;	
+			margin-right:15px; 
+			
+}
+#set2{
+			width:320px;
+			height:300px;
+	 		float:left;
+			margin-right:15px; 
+			
+
+		}
+#testimonial{
+			width:320px;
+			background-color: rgba(72,163,62,1.00);
+			height:500px;
+			float:left;
+			border:thick solid;
+			font-family: 'Noto Sans JP', sans-serif;
+		}
+
+#clients1{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+#clients2{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+#clienttest{
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	
 }
