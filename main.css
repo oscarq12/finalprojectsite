@@ -94,7 +94,7 @@ footer{
 #life{
 			width:330px;
 			background-color: rgba(72,163,62,1.00);
-			height:300px;
+			height:320px;
 			float:left;	
 			margin-right:15px; 
 			border:thick solid;
@@ -106,7 +106,7 @@ footer{
 #contest{
     width: 330px;
     background-color: rgba(72,163,62,1.00);
-    height: 300px;
+    height: 320px;
     float: left;
     margin-right: 15px;
     border: thick solid;
@@ -118,7 +118,7 @@ footer{
 #pose{
     width: 330px;
     background-color: rgba(72,163,62,1.00);
-    height: 300px;
+    height: 320px;
     float: left;
     border: thick solid;
     font-family: 'Noto Sans JP', sans-serif;
