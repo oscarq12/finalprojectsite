@@ -9,7 +9,10 @@
 }
 
 body{
-	background-image: url("assets/images/double-helix-blue-dna-icon-or-or-logo-vector-19171224.jpg")
+    background-image: url("assets/images/double-helix-blue-dna-icon-or-or-logo-vector-19171224.jpg");
+    text-decoration: underline;
+    margin-top: -13px;
+    padding-top: 16px;
 }
 
 #container{
@@ -36,8 +39,28 @@ h1{
 	font-size: 70px;
 	text-align: center;
 	text-decoration: underline;
+	background-color: aliceblue;
 	
 }
+
+
+
+h3{
+    font-size: 70px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: aliceblue;
+}
+
+
+h4{
+	font-size: 70px;
+	text-align: center;
+	text-decoration: underline;
+	background-color: aliceblue;
+}
+
+
 
 nav{
     background-color: antiquewhite;
@@ -49,6 +72,7 @@ nav{
     text-align: center;
     margin-left: 0px;
     word-spacing: 50px;
+    
 }
 
 
