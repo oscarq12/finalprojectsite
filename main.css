@@ -40,6 +40,7 @@ nav{
     border: thin solid;
     text-align: center;
     margin-left: 0px;
+    word-spacing: 53px;
 }
 
 
@@ -49,22 +50,25 @@ nav{
     height: 160px;
     border: thick solid;
     font-family: 'Noto Sans JP', sans-serif;
+    word-spacing: 44px;
 }
 
 h2{
-	font-size: 70px;
-	text-align: center;
-	
+    font-size: 70px;
+    text-align: center;
+    outline: double;
 }
 
 #aboutme1{
     align-content: center;
     width: 400px;
-    background-color: rgba(72,163,62,1.00);
+    background-color: cornflowerblue;
     height: 300px;
     float: right;
     border: thick solid;
-    font-family: 'Noto Sans JP', sans-serif;	
+    font-family: 'Noto Sans JP', sans-serif;
+    text-decoration: underline;
+    text-shadow: 50px 66px;
 }
 
 footer{
