@@ -99,6 +99,8 @@ footer{
 			margin-right:15px; 
 			border:thick solid;
 			font-family: 'Noto Sans JP', sans-serif;
+			border-radius: 15px;
+    		bottom: 25px;
 }
 
 #contest{
@@ -109,6 +111,8 @@ footer{
     margin-right: 15px;
     border: thick solid;
     font-family: 'Noto Sans JP', sans-serif;
+    border-radius: 15px;
+    bottom: 25px;
 		}
 
 #pose{
@@ -118,16 +122,17 @@ footer{
     float: left;
     border: thick solid;
     font-family: 'Noto Sans JP', sans-serif;
-	
+	border-radius: 15px;
+    bottom: 25px;
 	
 		}
 
 
 #art1{
-	padding-top: 5px;
-	padding-right: 10px;
-	padding-left: 10px;
-
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
 }
 
 #art2{
